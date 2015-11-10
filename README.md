@@ -1,2 +1,2 @@
 # testrepository
-for test the github.
+this file is readme file of girhub
